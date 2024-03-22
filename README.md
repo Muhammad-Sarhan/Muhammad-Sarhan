@@ -1,6 +1,6 @@
 # Mohamed Sarhan - Professional Profile
 
-Hey there! 👋 I'm **Mohamed Sarhan**, a 16-year-old programming prodigy hailing from Egypt. I wield an immense proficiency in over 17 programming languages and boast expertise in various domains. Here's a glimpse of my versatile skills:
+Hey there! 👋 I'm **Mohamed Sarhan**, a 16-year-old programming prodigy hailing from Egypt. I wield an immense proficiency in over 19 programming languages and boast expertise in various domains. Here's a glimpse of my versatile skills:
 
 ## Technical Expertise 🚀
 - **Web Development** 🌐
